@@ -139,7 +139,7 @@ tokeyrun@gmail.com <br />
 
 ## Support This Package
 
-<a href="https://www.buymeacoffee.com/kirann"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" title="Buy me a coffee" width="80" height="80"></a>
+<a href="https://www.buymeacoffee.com/kirann"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" title="Buy me a coffee"  height="50"></a>
 
 ### React Tutor @ Youtube
 
