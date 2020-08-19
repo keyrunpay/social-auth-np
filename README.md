@@ -14,6 +14,12 @@ npm install --save social-auth-np
 
 [https://github.com/keyrunpay/social-auth-np/tree/master/example](https://github.com/keyrunpay/social-auth-np/tree/master/example)
 
+## Pulling Examples to your local file
+
+```bash
+npx degit github:keyrunpay/social-auth-np/example#master social-auth
+```
+
 ## Usage Client Side
 
 ### Social Login Button Component

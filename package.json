@@ -1,6 +1,6 @@
 {
   "name": "social-auth-np",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Makes your life easy integrating social login",
   "source": "index.js",
   "main": "dist/index.js",
@@ -17,7 +17,8 @@
     "linkedin",
     "github"
   ],
-  "author": "Kiran Neupane",
+  "author": "keyrunpay",
+  "repository": "keyrunpay/social-auth-np",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
