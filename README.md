@@ -139,7 +139,7 @@ tokeyrun@gmail.com <br />
 
 ## Support This Package
 
-<a href="https://www.buymeacoffee.com/kirann"><img src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/apple-icon-120x120.png" title="Be a supporter of the package" width="80" height="80"></a>
+<a href="https://www.buymeacoffee.com/kirann"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" title="Buy me a coffee" width="80" height="80"></a>
 
 ### React Tutor @ Youtube
 

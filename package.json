@@ -1,6 +1,6 @@
 {
   "name": "social-auth-np",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Makes your life easy integrating social login",
   "source": "index.js",
   "main": "dist/index.js",
