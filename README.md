@@ -12,7 +12,7 @@ npm install --save social-auth-np
 
 ## Examples
 
-[https://keyrunpay.github.io/react-nepal-map](https://keyrunpay.github.io/react-nepal-map)
+[https://github.com/keyrunpay/social-auth-np/tree/master/example](https://github.com/keyrunpay/social-auth-np/tree/master/example)
 
 ## Usage Client Side
 
