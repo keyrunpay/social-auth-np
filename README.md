@@ -106,8 +106,8 @@ const authFacebook = async (req, res) => {
     }
     const response = await socialAuthNp.getUserInfo("facebook", access_token); // available auth options "facebook", "google", "github", "linkedin"
     /*
-        I hope from here you will use the info that is generated and do match wit your
-        own database and do some JWT signin or session creation or whatever and your your own token from tracking user
+        I hope from here you will use the info that is generated to match with your
+        own database info and do issue JWT token  or make a session for user
     */
     res.json(response.data);
   } catch (err) {
