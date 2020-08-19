@@ -1,12 +1,12 @@
 {
   "name": "social-auth-np",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Makes your life easy integrating social login",
   "source": "index.js",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
   "scripts": {
-    "build": "microbundle-crl --no-compress --format modern,es,cjs",
+    "build": "microbundle-crl --format modern,es,cjs,umd",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
